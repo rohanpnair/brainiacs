@@ -6,21 +6,6 @@ An interactive, modern web application for quizzes and trivia—built with Next.
 
 ---
 
-##  Table of Contents
-
-- [About](#about)  
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Screenshots](#screenshots)  
-- [Getting Started](#getting-started)  
-- [Usage](#usage)  
-- [Project Structure](#project-structure)  
-- [Roadmap](#roadmap)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Creative Credits](#creative-credits)
-
----
 
 ##  About
 
